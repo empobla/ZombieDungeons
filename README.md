@@ -37,7 +37,7 @@
     <br />
     <br />
     ·
-    <a href="https://emilioppv.com/portfolio/zombie-dungeons">View Demo</a>
+    <a href="https://zombiedungeons.demo.emilioppv.com">View Demo</a>
     ·
   </p>
 </div>
