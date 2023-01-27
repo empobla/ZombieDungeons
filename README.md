@@ -71,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Zombie Dungeons Screen Shot][product-screenshot]](https://example.com)
+[![Zombie Dungeons Screen Shot][product-screenshot]](https://zombiedungeons.demo.emilioppv.com)
 
 Zombie Dungeons is a 3D videogame that takes place in a post-apocalyptic world where the main character is a survivor that needs to save the world by searching for the cure for the alien disease that turns infected people into zombies in secret government bunkers within Area 51.
 
