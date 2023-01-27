@@ -95,7 +95,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This project requires Unity Engine version 2021.2.0.f1.
+This project requires Unity Engine version 2021.2.0f1.
 
 ### Installation
 
